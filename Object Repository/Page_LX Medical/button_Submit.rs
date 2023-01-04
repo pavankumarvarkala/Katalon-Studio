@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit</name>
+   <tag></tag>
+   <elementGuidId>65e056a2-d54c-4984-91a0-78c5e18b20e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ee5d743-e87e-4b18-b8e0-d1d86e75f809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b40031c6-6773-4ac7-9182-f2be01a1c2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>textid</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>90b7fd92-2b6a-415a-9252-dd25f1b37f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center shadow-sm border-2 rounded-md hover:font-bold  focus:outline-none text-sm py-3 px-16 font-bold text-white 
+ bg-primary cursor-pointer hover:border-primary</value>
+      <webElementGuid>f0328567-7e07-495f-bba6-47478a7feea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>4d5935c1-dc49-4327-9e54-39b536803027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;flex justify-center items-center h-screen&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-5 w-11/12 shadow-out m-auto&quot;]/div[@class=&quot;md:col-span-3&quot;]/div[@class=&quot;py-20 px-16&quot;]/div[1]/form[@class=&quot;grid gap-5&quot;]/div[@class=&quot;mt-3 flex justify-between items-center gap-5&quot;]/button[@class=&quot;flex justify-center items-center shadow-sm border-2 rounded-md hover:font-bold  focus:outline-none text-sm py-3 px-16 font-bold text-white 
+ bg-primary cursor-pointer hover:border-primary&quot;]</value>
+      <webElementGuid>85048458-4b53-4e36-92c3-b3c8ca15f8f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>68d472d0-40cf-43c5-ba12-67320dc5490d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[2]/div/div/form/div[4]/button</value>
+      <webElementGuid>72a5131a-e2d7-4f16-95b2-19b3762505e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
+      <webElementGuid>040a8cbe-cb68-44ea-b6da-d1f13066f6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>b736c55c-4f6f-4457-827b-f3dc4c49921d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::button[1]</value>
+      <webElementGuid>b9cd509c-bc66-480e-b93f-454317e04c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1003d3d1-4198-464c-a71a-c2d5d0046694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>70f282c5-d61e-4c8e-bc39-94b196097bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

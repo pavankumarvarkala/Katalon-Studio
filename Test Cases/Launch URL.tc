@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>launching the URL</description>
+   <name>Launch URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd30d0cb-0c90-432f-a9b4-ece3f6cefa42</testCaseGuid>
+</TestCaseEntity>
